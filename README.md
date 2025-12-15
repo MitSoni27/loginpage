@@ -243,7 +243,7 @@ Inspiration from modern SaaS dashboard designs
 Contact
 Your Name - MitSoni - meetsoni545@gmail.com
 
-Project Link: https://github.com/yourusername/secureportal-login
+Project Link: [https://github.com/yourusername/secureportal-login](https://github.com/MitSoni27/loginpage.git)
 
 🚀 Quick Deployment Guide
 For GitHub Pages (Static)
