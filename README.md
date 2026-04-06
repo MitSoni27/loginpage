@@ -56,27 +56,6 @@ Basic web server for JSP processing (Tomcat, Jetty, etc.)
 
 Optional: Font Awesome CDN for icons
 
-Installation
-Clone or Download
-
-bash
-git clone https://github.com/yourusername/secureportal-login.git
-cd secureportal-login
-Deploy to Web Server
-
-Copy login.jsp to your web application's directory
-
-Ensure your server supports JSP (Java Server Pages)
-
-No additional dependencies required
-
-Customize for Your Needs
-
-Update colors in the CSS :root variables
-
-Modify logo and branding in the HTML
-
-Connect to your backend authentication system
 
 Usage
 Basic Usage
@@ -243,7 +222,7 @@ Inspiration from modern SaaS dashboard designs
 Contact
 Your Name - MitSoni - meetsoni545@gmail.com
 
-Project Link: [https://github.com/yourusername/secureportal-login](https://github.com/MitSoni27/loginpage.git)
+
 
 🚀 Quick Deployment Guide
 For GitHub Pages (Static)
