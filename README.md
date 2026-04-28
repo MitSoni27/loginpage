@@ -1,6 +1,6 @@
 SecurePortal Enterprise Login Page
 
-SecurePortal ek modern, secure aur responsive login page hai jo enterprise applications ke liye design kiya gaya hai. Iska main focus security, user experience aur professional UI par hai.
+SecurePortal is a modern, secure, and responsive login page designed for enterprise applications. The main focus of this project is security, user experience, and a professional user interface.
 
 --------------------------------------------------
 
@@ -15,9 +15,9 @@ Design & UI
 
 Security Features
 - Email validation
-- Password show / hide option
+- Password show/hide option
 - Remember Me functionality
-- Forgot password option
+- Forgot password feature
 - Multiple login methods (Google, Microsoft, GitHub)
 
 Functionality
@@ -41,7 +41,7 @@ login-page/
 
 Basic Usage
 
-1. Open login page
+1. Open the login page
 2. Enter email and password
 3. Click "Sign In"
 4. Use "Forgot Password" if needed
@@ -72,9 +72,9 @@ fetch('/api/login', {
 Security Notes (Important)
 
 - Always use HTTPS
-- Validate data on server-side
-- Store passwords securely (hashed + salted)
-- Implement session management
+- Validate data on the server side
+- Store passwords securely (hashed and salted)
+- Implement proper session management
 - Add login attempt limit (rate limiting)
 
 --------------------------------------------------
@@ -92,19 +92,19 @@ Deployment
 
 For Java Web Application:
 
-1. Place login.jsp inside webapp/ folder
-2. Deploy project on Tomcat server
+1. Place login.jsp inside the webapp/ folder
+2. Deploy the project on a Tomcat server
 3. Access in browser:
 
 http://localhost:8080/login.jsp
 
 --------------------------------------------------
 
-Developer Info
+Developer Information
 
 Name: Mit Soni
 Project: SecurePortal Login Page
-Technology: HTML, CSS, JavaScript, JSP
+Technologies Used: HTML, CSS, JavaScript, JSP
 Purpose: Secure and responsive enterprise login system
 
 --------------------------------------------------
